@@ -56,13 +56,13 @@
     display: inline-block;
     transition: opacity .3s;
   }
-  .ButtonLink:hover,
-  .ButtonLink:focus {
+  .Button:hover,
+  .Button:focus {
     opacity: .5;
   }
   
   @media (max-width: 800px) {
-    a.ButtonLink {
+    a.Button {
       position: fixed;
       left: 0;
       right: 0;
