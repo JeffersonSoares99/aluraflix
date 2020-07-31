@@ -14,8 +14,10 @@ const Container = styled.ul`
     width: 30px;
     height: 30px;
     transform: initial;
+
     &:before {
       font-size: 30px;
+
     }
   }
   

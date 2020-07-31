@@ -70,6 +70,16 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+
+        {
+          "titulo": "Back End: O que estudar?",
+          "url": "https://www.youtube.com/watch?v=DmgiRK-yZ_A"
+        },
+
+        {
+          "titulo": "O que é BackEnd?",
+          "url": "https://www.youtube.com/watch?v=QPO9_BCrEO4"
         }
       ]
     },
@@ -96,7 +106,19 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
+        },
+        {
+          "titulo":"O Futuro frente aos avanços da IA e da Bio Tecnologia - Prof. Yuval Harari",
+          "url":"https://www.youtube.com/watch?v=LkwHEw8NJd4"
+        },
+        {
+          "titulo": "Discovery Brasil | Inteligência Artificial - IBM",
+          "url": "https://www.youtube.com/watch?v=W95YlM5-iPk"
+        },
+        {
+          "titulo": "A história da Inteligência Artificial - TecMundo",
+          "url": "https://www.youtube.com/watch?v=Lhu8bdmkMCM"
+        }        
       ]
     },
     {
@@ -118,6 +140,18 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo":"POWER Trailer Brasileiro LEGENDADO (2020) Jamie Foxx",
+          "url":"https://www.youtube.com/watch?v=Zd7T8Gw1-jg"
+        },
+        {
+          "titulo":"Titanic 2 - Jack's Back Reboot (2020 Movie Trailer Parody)",
+          "url":"https://www.youtube.com/watch?v=iphqRPaaeP8"
+        },
+        {
+          "titulo":"PARASITA | Trailer Legendado",
+          "url":"https://www.youtube.com/watch?v=m4jfE-TxC24"
         }
       ]
     },
@@ -148,7 +182,20 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        },
+        {
+          "titulo":"RED DEAD REDEMPTION 2 - O Início de Gameplay, em Português PT-BR!",
+          "url":"https://www.youtube.com/watch?v=BoohYJlRXa8"
+        },
+        {
+          "titulo":"Rainbow Six Siege : A Primeira Meia Hora",
+          "url":"https://www.youtube.com/watch?v=k4nxTlt9L44"
+        },
+        {
+          "titulo":"Trailer de Anúncio Oficial do FIFA 21 | Vença como Um, estrelando Kylian Mbappé",
+          "url":"https://www.youtube.com/watch?v=tuLAn9adQpI"
         }
+        
       ]
     },
     {
@@ -178,6 +225,14 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        },
+        {
+          "titulo":"Trabalhar com tecnologia. O que aprender em 2020?",
+          "url":"https://www.youtube.com/watch?v=EpZkzbrTaD4"
+        },
+        {
+          "titulo":"Daqui a 5 anos você vai desejar ter começado hoje - Para começar 2020 (Super Conselho #6)",
+          "url":"https://www.youtube.com/watch?v=i5JUfEfeXtg"
         }
       ]
     }
